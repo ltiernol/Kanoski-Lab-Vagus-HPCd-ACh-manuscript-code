@@ -1,5 +1,7 @@
 # Kanoski-Lab-Vagus-HPCd-ACh-manuscript-code
-This is MATLAB code pertaining to the analysis of fiber photometry data conducted for the Vagus HPCd ACh manuscript
+This is MATLAB_R2022a code pertaining to the analysis of fiber photometry data conducted for the Vagus HPCd ACh manuscript
+
+Installation time for MATLAB_R2022a with all statistical, linear algebra, and plotting packages on a standard i7 intel CPU chip with 8GB of RAM is approximately ~30-45 minutes. 
 
 Neurophotometrics_LTL.m is the MATLAB script that performs the primary anlysis of raw photometry files, it performs the isosbestic signal subtraction and correction. 
 
